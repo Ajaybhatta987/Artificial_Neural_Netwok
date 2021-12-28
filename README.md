@@ -1,4 +1,4 @@
-# Artificial_Neural_Netwok
+# Artificial_Neural_Network
 
 ![ann](https://user-images.githubusercontent.com/66326769/147590402-08d772b0-25d6-4f43-b32a-ea2a87476e4d.png)
 
