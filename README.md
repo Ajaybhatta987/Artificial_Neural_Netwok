@@ -15,6 +15,7 @@ ANN alorithm
 Step 1: The dataset is imported and preprocessed. Preprocessing is needed to get a good quality result. The dataset is split suitable for training and testing. We have 80% for training and 20% for testing. 
 
 Step 2: Initializing the Ann 
+
 A sequential model from Keras API is used. It is a linear stack of layers and a commonly used architecture.
 
 Step 3: We then add various layers to the architecture 
