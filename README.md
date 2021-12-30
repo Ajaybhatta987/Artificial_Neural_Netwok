@@ -25,7 +25,7 @@ Step 3: We then add various layers to the architecture
 
 2nd layer&3rd layer: As illustrated in Figure 1, the second layer of our ANN model is a hidden layer with six nodes. And the activation of each node in this layer is determined using an activation function, in this case a Rectified linear Unit (RELU). These generated activations are used as input for the 3rd hidden layer, which calculates each node's activation using the same activation functions.  
 
-4th layer:  Because it offers us the result, the final layer is termed the output layer. Because our problem is binary classification, we utilize a sigmoid activation function exclusively on the output layer. By employing sigmoid, we can readily interpret the output as probabilities because it has a constrained output between 0 and 1.
+4th layer:  Because it offers us the result, the final layer is termed as the output layer. Because our problem is binary classification, we utilize a sigmoid activation function exclusively on the output layer. By employing sigmoid, we can readily interpret the output as probabilities because it has a constrained output between 0 and 1.
 
 Step 4:  Hyperparameter-like batch size and epochs are initialized. Training data is fitted to the ANN classifier then, the exit status of the customer is predicted.  
 
