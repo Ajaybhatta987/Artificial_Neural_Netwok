@@ -10,6 +10,7 @@ The architecture of the neural network is [11,6,6,1] with:
 •	2 hidden layers with 6 nodes on each hidden layer
 •	Since we have classification problem, we will have one node in output layer  
 
+
 ANN alorithm
 
 Step 1: The dataset is imported and preprocessed. Preprocessing is needed to get a good quality result. The dataset is split suitable for training and testing. We have 80% for training and 20% for testing. 
