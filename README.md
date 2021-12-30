@@ -30,6 +30,12 @@ Step 3: We then add various layers to the architecture
 Step 4:  Hyperparameter-like batch size and epochs are initialized. Training data is fitted to the ANN classifier then, the exit status of the customer is predicted.  
 
 
+Confusion Matrix
+
+![C_m](https://user-images.githubusercontent.com/66326769/147728734-928c8a43-8e18-4459-9ffa-568524d28c7a.png)
+
+
+
 
 Accuracy after 100 epochs
 
