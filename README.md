@@ -39,5 +39,7 @@ Accuracy after 100 epochs
 
 
 
+Loss has decreased significantly as the number of epochs increased
+
 ![Figure 2021-12-30 123041](https://user-images.githubusercontent.com/66326769/147728214-78bc79dd-cb88-4139-9f2c-2a53beea4ac1.png)
 
